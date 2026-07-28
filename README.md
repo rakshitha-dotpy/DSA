@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="120"/>
+<div style="background-color: white; width: 140px; height: 140px; display: inline-flex; align-items: center; justify-content: center; border-radius: 12px;">
 
-# LeetCode Solutions
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" alt="LeetCode Logo"/>
 
-> *“Every problem solved is one step closer to becoming a better programmer.”* 🚀
+</div>
+
+# My DSA Journey
+
+> Solving problems, learning new approaches, and improving my problem-solving skills through LeetCode.
 
 </div>
